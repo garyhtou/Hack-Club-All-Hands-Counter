@@ -1,4 +1,10 @@
 {
-	"join": ["Welcome <@USER>!", "Hey! We have some more hands from <@USER>"],
-	"leave": ["Sad to see you go <@USER>", "We've lost <@USER>'s hands :cry:"]
+	"join": [
+		"<NUM_HANDS> in this channel. Welcome <@USER>!",
+		"<NUM_HANDS> in this channel. Hey! We have some more hands from <@USER>"
+	],
+	"leave": [
+		"<NUM_HANDS> in this channel. Sad to see you go <@USER>",
+		"<NUM_HANDS> in this channel. We've lost <@USER>'s hands :cry:"
+	]
 }
