@@ -1,10 +1,13 @@
 {
 	"join": [
-		"<NUM_HANDS> in this channel. Welcome <@USER>!",
-		"<NUM_HANDS> in this channel. Hey! We have some more hands from <@USER>"
+		"<NUM_HANDS> hands in this channel. Welcome <@USER>!",
+		"<NUM_HANDS> hands in this channel. Hey! We have some more hands from <@USER>",
+		"Welcome <@USER> who bumped our total up to <NUM_HANDS> hands!",
+		"Hey look, <@USER> just joined us! We now got <NUM_HANDS> hands",
+		"BREAKING NEWS! We've now got <NUM_HANDS> hands!"
 	],
 	"leave": [
-		"<NUM_HANDS> in this channel. Sad to see you go <@USER>",
-		"<NUM_HANDS> in this channel. We've lost <@USER>'s hands :cry:"
+		"<NUM_HANDS> hands in this channel. Sad to see you go <@USER>",
+		"<NUM_HANDS> hands in this channel. We've lost <@USER>'s hands :cry:"
 	]
 }
