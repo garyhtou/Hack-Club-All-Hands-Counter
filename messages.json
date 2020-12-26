@@ -1,0 +1,4 @@
+{
+	"join": ["Welcome <@USER>!", "Hey! We have some more hands from <@USER>"],
+	"leave": ["Sad to see you go <@USER>", "We've lost <@USER>'s hands :cry:"]
+}
