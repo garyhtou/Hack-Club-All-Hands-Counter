@@ -9,7 +9,6 @@
 		"WOAH! Looks like interest in this channel is peaking! We're currently sitting at <NUM_HANDS> hands :chart_with_upwards_trend: :stonks:",
 		"We're at <NUM_HANDS> hands. Yes, streambot has hands :)",
 		"Oooh, another hacker here! Now we have <NUM_HANDS> hands :yay:"
-		"
 	],
 	"leave": [
 		"<NUM_HANDS> hands in this channel. Sad to see you go <@USER>",
