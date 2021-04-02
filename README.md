@@ -2,7 +2,7 @@
 
 Welcome! This repo is used by the `Hand Counter` Slack bot on the [Hack Club Slack](https://hackclub.com). All the bot does is count the number of hands in the `#all-hands` channel 🤷‍♂️ and then update the channel topic with a random message template from [`messages.json`](/messages.json).
 
-The code for the slack bot itself is Unfortunately in my private Personal API repo to prevent spinning up another Heroku dynos.
+The code for the slack bot is unfortunately in my private Personal API repo to prevent spinning up another Heroku dyno.
 
 ---
 
