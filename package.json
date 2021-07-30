@@ -1,5 +1,5 @@
 {
-	"name": "hackclub-all-hands-counter",
+	"name": "hack-club-all-hands-counter",
 	"version": "1.0.0",
 	"description": "Counting the number of hands in #all-hands on the Hack Club Slack",
 	"main": "index.js",
