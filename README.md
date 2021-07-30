@@ -6,7 +6,7 @@ Welcome! This repo is used by the `Hand Counter` Slack bot on the [Hack Club Sla
 
 ## How to add a cool join/leave message template!
 
-1. Check out [`messages.json`](/messages.json) to see what messages are already there.
+1. Check out [`messages.js`](/messages.js) to see what messages are already there.
 2. Draft your message! Each message must include `<NUM_HANDS>` and may optionally include `<@USER>`.
 3. Last but not least, create a pull request to this repo.
 
