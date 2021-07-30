@@ -1,0 +1,30 @@
+{
+	"name": "hackclub-all-hands-counter",
+	"version": "1.0.0",
+	"description": "Counting the number of hands in #all-hands on the Hack Club Slack",
+	"main": "index.js",
+	"scripts": {
+		"start": "node .",
+		"dev": "nodemon index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/garyhtou/Hack-Club-All-Hands-Counter.git"
+	},
+	"author": "Gary Tou <gary@garytou.com> (https://garytou.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/garyhtou/Hack-Club-All-Hands-Counter/issues"
+	},
+	"homepage": "https://github.com/garyhtou/Hack-Club-All-Hands-Counter#readme",
+	"prettier": "@garyhtou/prettier-config",
+	"dependencies": {
+		"@slack/bolt": "^3.5.0",
+		"dotenv": "^10.0.0"
+	},
+	"devDependencies": {
+		"@garyhtou/prettier-config": "^1.0.1",
+		"nodemon": "^2.0.12"
+	}
+}
